@@ -5,7 +5,3 @@
 ```shell
 node -v
 npm -v`
-
-
-
-
