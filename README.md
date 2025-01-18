@@ -4,4 +4,4 @@
 
 ```shell
 node -v
-npm -v`
+npm -v
