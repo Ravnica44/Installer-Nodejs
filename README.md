@@ -2,7 +2,8 @@
 
 `sudo apt install -y nodejs`
 
-`node -v
+```shell
+node -v
 npm -v`
 
 
